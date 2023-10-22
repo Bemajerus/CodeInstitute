@@ -38,9 +38,10 @@ h2{
 }
 
 h3{
-    font-family: var(--ff-secondary);
-    font-size: var(--fs-h1);
-    color: var(--clr-white);
+    font-family: var(--ff-primary);
+    font-size: var(--fs-h2);
+    margin-top: 17px;
+    
     
 }
 
@@ -145,10 +146,41 @@ nav li{
 /* End of header and menu styling */
 
 
+#racismContent {
+    width: 360px;
+}
 
+.vascoTeam {
+    width: 360px;
+    height: 248px;
+    margin-top: 60px;
+}
 
+.racismGrid {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 13px;
+}
 
+.malteseImage {
+    width: 15px;
+    height: 15px;
+    margin-top: 3px;
+}
 
+p {
+    width: 320px;
+    margin-left: 20px;
+    margin-top: 14px;
+}
+
+.letterImg {
+    width: 300px;;
+    height: 450px;
+    margin-left: 30px;
+    margin-top: 16px;
+}
 
 
 /* Footer Stryling */
