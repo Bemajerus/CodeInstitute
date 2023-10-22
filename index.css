@@ -156,7 +156,7 @@ nav li{
     margin-top: 60px;
 }
 
-.historyName {
+.historyGrid {
     display: flex;
     justify-content: center;
     gap: 8px;
