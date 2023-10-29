@@ -9,7 +9,7 @@
 /* Custom Proeperties */
 
 :root {
-    --ff-primary: 'LongShot' ;
+    --ff-primary: 'Longshot' ;
     --ff-secondary: 'Roboto Condensed' ;
     
     --clr-white: #fff;
@@ -38,9 +38,10 @@ h2{
 }
 
 h3{
-    font-family: var(--ff-primary);
-    font-size: var(--fs-h2);
-    margin-top: 17px; 
+    font-family: var(--ff-secondary);
+    font-size: var(--fs-h1);
+    color: var(--clr-white);
+    
 }
 
 p{
@@ -52,7 +53,7 @@ p{
 
 @font-face {
     font-family: 'LongShot';
-    src: url('./media/Long_Shot.ttf');
+    src: url('assets/fonts/Long_Shot.ttf');
 }
 
 body{
@@ -80,14 +81,14 @@ header a {
 }
 
 
-.headerLogo{
+.header-logo{
     width: 32px;
     height: 40px;
     margin-left: 20px;
     margin-top: 10px;
 }
 
-.headerName{
+.header-name{
     margin-left: 8px;
     margin-top: 20px;
     text-align: center;
@@ -135,7 +136,7 @@ nav li{
     list-style: none;
 }
 
-.listImage{
+.list-image{
     width: 10px;
     height: 10px;
     margin-right: 5px;
@@ -143,25 +144,26 @@ nav li{
 
 /* End of header and menu styling */
 
+/* History content styling */
 
-#racismContent {
+#history-content {
     width: 360px;
 }
 
-.vascoTeam {
+.vasco-shirt {
     width: 360px;
-    height: 248px;
+    height: 220px;
     margin-top: 60px;
 }
 
-.racismGrid {
+.history-grid {
     display: flex;
     justify-content: center;
     gap: 8px;
     margin-top: 13px;
 }
 
-.malteseImage {
+.maltese-image {
     width: 15px;
     height: 15px;
     margin-top: 3px;
@@ -173,13 +175,7 @@ p {
     margin-top: 14px;
 }
 
-.letterImg {
-    width: 300px;;
-    height: 450px;
-    margin-left: 30px;
-    margin-top: 16px;
-}
-
+/* End of History content styling */ 
 
 /* Footer Stryling */
 
@@ -198,19 +194,19 @@ footer h2 {
     margin-top: 16px;
 }
 
-.footerLogo {
+.footer-logo {
     width: 24px;
     height: 30px;
     margin-top: 5px;
 }
 
-.socialMediaGrid {
+.social-media-grid {
     display: flex;
     margin-right: 20px;
     gap: 8px;
 }
 
-.socialMediaIcon {
+.social-media-icon {
     width: 20px;
     height: 20px;
     margin-top: 10px;

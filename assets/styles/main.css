@@ -1,0 +1,178 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Custom Proeperties */
+
+:root {
+    --ff-primary: 'Longshot' ;
+    --ff-secondary: 'Roboto Condensed' ;
+    
+    --clr-white: #fff;
+    --clr-red: #B91800;
+    
+    --fs-h1: 24px;
+    --fs-h2: 20px;
+    --fs-h3: 14px;
+    --fs-p: 14px;
+}
+
+/* Typography */
+
+h1{
+    font-family: var(--ff-primary);
+    font-size: var(--fs-h1);
+    font-weight: 400;
+}
+
+h2{
+    font-family: var(--ff-primary);
+    font-size: var(--fs-h2);
+    color: var(--clr-white);
+    font-weight: 400;
+}
+
+h3{
+    font-family: var(--ff-secondary);
+    font-size: var(--fs-h1);
+    color: var(--clr-white);
+}
+
+p{
+    font-family: var(--ff-secondary);
+    font-size: var(--fs-p);
+    line-height: 18px;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'LongShot';
+    src: url('assets/fonts/Long_Shot.ttf');
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+    margin: auto;
+}
+
+/* Header Styling*/
+
+header{
+    display: flex;
+    background-color: black;
+    height: 60px;
+    width: 360px;
+    position: fixed;
+    z-index: 99; 
+    
+}
+
+header a {
+    text-decoration: none;
+    color: inherit
+}
+
+
+.header-logo{
+    width: 32px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.header-name{
+    margin-left: 8px;
+    margin-top: 20px;
+    text-align: center;
+    font-style: normal;
+}
+
+/* Menu Styling */
+
+/* Nav toggle */
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    margin-top: 20px;
+    margin-left: 43px;
+}
+
+nav{
+    position: absolute;
+    background-color: #fff;
+    width: 100%;
+    left: 0;
+    box-shadow: 0 2px 2px #3a3a3a;
+    top: 100%;
+    border-radius: 5px;
+    font-family: var(--ff-secondary);
+    font-size: var(--fs-h3);
+    font-weight: 600;
+    display: none;
+}
+
+.active {
+    color: var(--clr-red);
+}
+
+nav li{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+.list-image{
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+}
+
+/* End of header and menu styling */
+
+/* Footer Stryling */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    width: 360px;
+    height: 42px;
+    background-color: black;
+}
+
+footer h2 {
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 16px;
+}
+
+.footer-logo {
+    width: 24px;
+    height: 30px;
+    margin-top: 5px;
+}
+
+.social-media-grid {
+    display: flex;
+    margin-right: 20px;
+    gap: 8px;
+}
+
+.social-media-icon {
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+}
