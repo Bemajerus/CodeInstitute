@@ -47,6 +47,9 @@ p{
     font-size: var(--fs-p);
     line-height: 18px;
     font-weight: 400;
+    width: 320px;
+    margin-left: 20px;
+    margin-top: 14px;
 }
 
 @font-face {
@@ -77,7 +80,6 @@ header a {
     text-decoration: none;
     color: inherit
 }
-
 
 .header-logo{
     width: 32px;
