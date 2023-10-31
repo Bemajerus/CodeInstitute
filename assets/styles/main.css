@@ -73,7 +73,6 @@ header{
     width: 360px;
     position: fixed;
     z-index: 99; 
-    
 }
 
 header a {
@@ -177,4 +176,90 @@ footer h2 {
     width: 20px;
     height: 20px;
     margin-top: 10px;
+}
+
+@media screen and (min-width: 361px) {
+    
+:root {
+    --fs-h1: 128px;
+    --fs-h2: 48px;
+    --fs-h3: 14px;
+    --fs-p: 20px;
+}
+
+    /* Typography */
+
+p{
+    width: 1240px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+body{
+    display:block ;
+    width: 1440px;
+    margin: auto;
+}
+
+/* Header Styling*/
+
+header{
+    height: 100px;
+    width: 1440px;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit
+}
+
+.header-logo{
+    width: 32px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.header-name{
+    margin-left: 8px;
+    margin-top: 20px;
+    text-align: center;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
