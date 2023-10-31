@@ -20,6 +20,12 @@ p {
     margin-bottom: 14px;
 }
 
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-align: center; 
+}
+
 .player-position {
     margin-top: 16px;
 }
@@ -78,6 +84,8 @@ p {
     
     .player-position {
         margin-top: 0;
+        width:600px; 
+        height:335px;
     }
 
     .row-reverse {
