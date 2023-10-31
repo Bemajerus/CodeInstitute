@@ -250,8 +250,7 @@ nav {
     height: 35px;
     top: 30px;
     border-radius: 0px;
-    box-shadow: 0 0 0;
-    
+    box-shadow: 0 0 0;  
 }
 
 nav li {
@@ -310,32 +309,5 @@ footer {
     height: 50px;
     margin-top: 23px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
