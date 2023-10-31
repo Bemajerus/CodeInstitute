@@ -28,3 +28,61 @@
     margin-left: 30px;
     margin-top: 16px;
 }
+
+@media (width > 420px){
+
+    #racism-content {
+        width: 1240px;
+        margin-left: 100px;
+    }
+    
+    .vasco-team {
+        width: 1440px;
+        height: 991px;
+        margin-top: 100px;
+    }
+    
+    .racism-grid {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 110px;
+        margin-left: 100px;
+    }
+    
+    .maltese-image {
+        width: 70px;
+        height: 70px;
+        margin-top: 3px;
+    }
+
+    .letter-grid {
+        display: flex;
+        flex-direction: row;
+        gap: 40px;
+    }
+
+    .desktop-left-content {
+        
+        margin-left: 100px;
+        margin-top: 104px;
+    }
+    
+    .letter-img {
+        width: 600px;;
+        height: 900px;
+    }
+
+    .letter-paragraph {
+        width: 600px;
+        margin-top: 14px;
+        margin-left: 0;
+    }
+
+    .desktop-right-content {
+        width: 600px;
+        margin-top: 104px;
+        margin-left: 0;
+        margin-right: 100px;
+    }
+}
