@@ -23,3 +23,64 @@ p {
 .player-position {
     margin-top: 16px;
 }
+
+@media (width > 420px) {
+
+    #legends-content {
+        width: 1240px;
+        margin-top: 100px;
+        margin-left: 100px;
+        margin-top: 111px;
+    }
+    
+    .legends-grid {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        /* margin-top: 76px; */
+    }
+    
+    .maltese-image {
+        width: 70px;
+        height: 70px;
+        margin-top: 40px;
+    }
+    
+    p {
+        /* margin-bottom: 14px; */
+        width: 600px;
+        margin-left: 0;
+        line-height: normal;
+        margin-top: 10px;
+
+    }
+
+    h3 {
+        font-size: 40px;
+        font-family: 'Courier New', Courier, monospace;
+        color: black;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .video-text-position-desktop {
+        display: flex;
+        flex-direction: row;
+        gap: 40px;
+        margin-bottom: 220px;
+    }
+
+    .text-grid-position-desktop {
+        width: 600px;
+        height: 294;
+        align-content: center;
+    }
+    
+    .player-position {
+        margin-top: 0;
+    }
+
+    .row-reverse {
+        flex-direction: row-reverse;
+    }
+}
