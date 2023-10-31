@@ -23,6 +23,13 @@
     margin-top: 3px;
 }
 
+.stadium-photo {
+    width: 320px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 /* End of History content styling */ 
 
 @media (width > 420px){
@@ -52,6 +59,13 @@
     width: 70px;
     height: 70px;
     margin-top: 40px;
+}
+
+.stadium-photo {
+    width: 1040px;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 }
