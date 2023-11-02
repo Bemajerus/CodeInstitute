@@ -74,14 +74,14 @@ h3 {
 
     .text-grid-position-desktop {
         width: 600px;
-        height: 294;
+        height: 294px;
         align-content: center;
     }
     
     .player-position {
         margin-top: 0;
-        width:600px; 
-        height:335px;
+        width: 600px; 
+        height: 335px;
     }
 
     .row-reverse {
