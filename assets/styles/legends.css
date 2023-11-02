@@ -82,6 +82,7 @@ h3 {
         margin-top: 0;
         width: 600px; 
         height: 335px;
+        border: 0;
     }
 
     .row-reverse {
