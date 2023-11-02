@@ -30,42 +30,38 @@
     margin-bottom: 20px;
 }
 
-/* End of History content styling */ 
-
+    /* History content style for desktop */
 @media (width > 420px){
 
-    /* History content styling */
+    #history-content {
+        width: 1240px;
+    }
 
-#history-content {
-    width: 1240px;
-}
+    .vasco-shirt {
+        width: 1440px;
+        height: 880px;
+        margin-top: 100px;
+    }
 
-.vasco-shirt {
-    width: 1440px;
-    height: 880px;
-    margin-top: 100px;
-}
+    .history-grid {
+        display: flex;
+        justify-content: center;
+        width: 1240px;
+        gap: 30px;
+        margin-top: 110px;
+        margin-left: 100px;
+    }
 
-.history-grid {
-    display: flex;
-    justify-content: center;
-    width: 1240px;
-    gap: 30px;
-    margin-top: 110px;
-    margin-left: 100px;
-}
+    .maltese-image {
+        width: 70px;
+        height: 70px;
+        margin-top: 20px;
+    }
 
-.maltese-image {
-    width: 70px;
-    height: 70px;
-    margin-top: 20px;
-}
-
-.stadium-photo {
-    width: 1040px;
-    margin-left: 200px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
-
+    .stadium-photo {
+        width: 1040px;
+        margin-left: 200px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
 }

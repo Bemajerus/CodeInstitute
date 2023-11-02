@@ -1,3 +1,5 @@
+/* Legends page content styling */
+
 #legends-content {
     width: 360px;
     margin-top: 76px;
@@ -28,6 +30,7 @@ h3 {
     margin-top: 16px;
 }
 
+    /* Legends page content style for desktop */
 @media (width > 420px) {
 
     #legends-content {

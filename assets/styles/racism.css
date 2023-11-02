@@ -1,3 +1,4 @@
+/* Racism page content styling */
 
 #racism-content {
     width: 360px;
@@ -29,6 +30,7 @@
     margin-top: 16px;
 }
 
+    /* Racism page content style for desktop */
 @media (width > 420px){
 
     #racism-content {
