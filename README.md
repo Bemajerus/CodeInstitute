@@ -137,8 +137,114 @@ The Legends page features some of Vasco da Gama's greatest idols and plays with 
 
 ...legends page
 
+### Accessibility
+
+It was requested that the shade of red be slightly lighter to improve visibility on the black background.
+
+## Technologies Used
+
+**Github** - Used for storage of my site and for publishing online.\
+**Visual Studio Code** - The IDE used for editing my site and pushing changes.\
+**HTML5** - The core of the site was built with HTML version 5.\
+**CSS** - CSS was used to style the website and define fonts and layout.\
+**Youtube** - Videos embedded from Youtube.\
+**Icon Finders** - Social Media icons from Icon Finders.\
+**Google Chrome** - The website was built and tested in google Chrome.\
+**Cloud Converter** - Used to convert PNG files to .webP.\
+
+### Languages Used
+
+HTML and CSS
+
+### Frameworks, Libraries & Programs Used
+
+**Github** - I used GitHub for the storage of my site and Gitpages to pubish my website.\
+
+## Deployment & Local Development
+
+### Deployment
+
+I deployed everything my website onto gitpages.
+
+### Local Development
+
+#### How to Clone
+
+1. Log into your account on github
+2. Go to the repository of this project /adrianskelton/Projecto1/
+3. Click on the code button, and copy your preferred clone link.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal, paste the link you copied in step 3 and press enter.
 
 
+#### How to Fork
 
+To fork the repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, adrianskelton/Projecto1
+3. Click the Fork button in the top right corner.
+
+
+## Testing
+## Manual Testing
+
+### Jigsaw CSS Validator
+
+[Jigsaw](https://jigsaw.w3.org/css-validator/validator) was used to validate the css code
+....cssvalidator
+
+### W3C Validator
+
+[W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
+....htmlvalidator
+
+### Lighthouse
+
+I used Chrome's Lighthouse developer tool to check my sites performance.
+
+### Index page
+
+...lighthouseindex
+
+### Fight against racism page
+
+.....lighthouseracism
+
+### Legends page
+
+.....lighthouselegends
+
+### Full Testing
+
+Full testing was performed on the following devices:
+
+* Desktop
+* Mobile Devices:
+  * One Plus 6
+
+Each device tested the site using the following browsers:
+
+* Google Chrome
+* Safari
+* Opera
+
+Additional testing was taken by friends on a variety of devices and screen sizes. 
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| `Navbar` |
+|  |  |  |  |  |
+| History Page Link | When clicked the user will be redirected to the home page.| Clicked link | Redirected to the home page. | Pass |
+| Fight Against Racism Link | When clicked the user will be redirected to the fight against racism page. | Clicked link | Redirected to the accomodation page. | Pass |
+| Legends Link | When clicked the user will be redirected to the Legends page. | Clicked link | Redirected to the contact page | Pass |
+| --- | --- | --- | --- | --- |
+| `Footer` |
+|  |  |  |  |  |
+| Social Icons | When clicked the user will be redirected to the appropriate social media pages in a new window. | Clicked icon | Redirected to the social media page in a new window. | Pass |
+| --- | --- | --- | --- | --- |
+| `Legends Page` |
+|   |   |   |   |
+| Youtube videos | Videos does not autoplay, only when clicked does it play. | Clicked video  | Video plays | Pass |
 
 
