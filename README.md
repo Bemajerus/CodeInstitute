@@ -249,4 +249,30 @@ Additional testing was taken by friends on a variety of devices and screen sizes
 |   |   |   |   |
 | Youtube videos | Videos does not autoplay, only when clicked does it play. | Clicked video  | Video plays | Pass |
 
+### Bugs and Corrections
 
+Bug: Even though the file names were in lowercase in my directory, after pushing, they still had uppercase initials in the repository.
+Correction: I had to rename by adding a letter or number and then deleting it again.
+
+....imgs namecaps
+
+Bug: After the deployment, the images were no longer loading.
+Correction: I needed to change the image paths.
+
+----img
+
+## Credits
+
+### Content
+
+Texts taken from:
+ * https://www.lance.com.br/vasco/resposta-historica-do-vasco-completa-99-anos-entenda-por-que-o-documento-e-marco-contra-a-desigualdade.html
+ * https://pt.wikipedia.org/wiki/Club_de_Regatas_Vasco_da_Gama
+
+### Media
+
+Images taken from:
+ * https://www.lance.com.br/vasco/resposta-historica-do-vasco-completa-99-anos-entenda-por-que-o-documento-e-marco-contra-a-desigualdade.html
+ * Google Images
+
+Videos embedded from Youtube.
