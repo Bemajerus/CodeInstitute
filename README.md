@@ -171,7 +171,7 @@ I deployed everything my website onto gitpages.
 #### How to Clone
 
 1. Log into your account on github
-2. Go to the repository of this project /adrianskelton/Projecto1/
+2. Go to the repository of this project Bemajerus/CodeInstitute/
 3. Click on the code button, and copy your preferred clone link.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal, paste the link you copied in step 3 and press enter.
@@ -182,7 +182,7 @@ I deployed everything my website onto gitpages.
 To fork the repository:
 
 1. Log in (or sign up) to Github.
-2. Go to the repository for this project, adrianskelton/Projecto1
+2. Go to the repository for this project, Bemajerus/CodeInstitute/
 3. Click the Fork button in the top right corner.
 
 
@@ -192,11 +192,13 @@ To fork the repository:
 ### Jigsaw CSS Validator
 
 [Jigsaw](https://jigsaw.w3.org/css-validator/validator) was used to validate the css code
+
 ....cssvalidator
 
 ### W3C Validator
 
 [W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
+
 ....htmlvalidator
 
 ### Lighthouse
