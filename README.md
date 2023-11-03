@@ -55,7 +55,7 @@ With sections about the founding of the rowing club and subsequently the footbal
 ### Learning about the impact of racism in football during the 1900s.
 Understanding Vasco da Gama's fight against the racism that affected black and lower-class players who played for the team, which, through the historic letter known as the "Historical Response," directly challenged the organization of the time that sought to exclude these players from the championship.
 
-##Design
+## Design
 
 ### Colour Scheme
 
