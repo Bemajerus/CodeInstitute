@@ -34,10 +34,8 @@ This is a website developed in HTML and CSS about the history and the fight agai
 * [Testing](#testing)
 
 * [Credits](#credits)
-  * [Code Used](#code-used)
   * [Content](#content)
   * [Media](#media)
-  * [Acknowledgments](#acknowledgments)
 
 ---
 ## Target Audience
@@ -150,7 +148,7 @@ It was requested that the shade of red be slightly lighter to improve visibility
 **Youtube** - Videos embedded from Youtube.\
 **Icon Finders** - Social Media icons from Icon Finders.\
 **Google Chrome** - The website was built and tested in google Chrome.\
-**Cloud Converter** - Used to convert PNG files to .webP.\
+**Cloud Converter** - Used to convert PNG files to .webP.
 
 ### Languages Used
 
@@ -158,7 +156,7 @@ HTML and CSS
 
 ### Frameworks, Libraries & Programs Used
 
-**Github** - I used GitHub for the storage of my site and Gitpages to pubish my website.\
+**Github** - I used GitHub for the storage of my site and Gitpages to pubish my website.
 
 ## Deployment & Local Development
 
