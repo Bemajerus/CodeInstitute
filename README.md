@@ -19,7 +19,6 @@ This is a website developed in HTML and CSS about the history and the fight agai
 
 * [Features](#features)
   * [General Features on Each Page](#general-features-on-each-page)
-  * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
 
 * [Technologies Used](#technologies-used)
