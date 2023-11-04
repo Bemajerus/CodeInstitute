@@ -268,5 +268,3 @@ Texts taken from:
 Images taken from:
  * https://www.lance.com.br/vasco/resposta-historica-do-vasco-completa-99-anos-entenda-por-que-o-documento-e-marco-contra-a-desigualdade.html
  * Google Images
-
-Videos embedded from Youtube.
