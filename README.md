@@ -189,7 +189,7 @@ To fork the repository:
 
 ### Jigsaw CSS Validator
 
-[Jigsaw](https://jigsaw.w3.org/css-validator/validator) was used to validate the css code
+[Jigsaw](https://jigsaw.w3.org/css-validator/) was used to validate the css code
 
 ....cssvalidator
 
