@@ -9,7 +9,7 @@ This is a website developed in HTML and CSS about the history and the fight agai
 
 ## Contents
 
-  * [Target Audience] (#target-audience)
+  * [Target Audience](#target-audience)
       * [User Stories](#user-stories)
 
   * [Design](#design)
