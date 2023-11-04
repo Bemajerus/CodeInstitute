@@ -109,7 +109,8 @@ I used HTML and CSS for the navbar, below are two views of the desktop view and 
 
 Desktop version navbar with menu
 
-...mobile navbar
+![navbarmobile](https://github.com/Bemajerus/CodeInstitute/assets/19080353/05d0d2af-c68c-462c-9a94-e2875bc34685)
+
 
 Mobile versiona navbar hamburguer menu
 
@@ -118,7 +119,8 @@ Mobile versiona navbar hamburguer menu
 
 I added the Vasco da Gama badge in the middle of the footer, and on the right side I added three social media icons form facebook, instagram and youtube. The media icons were sourced from iconfinder and I kept them in their original colors to give them a bit more prominence in the footer.
 
-...footerimage
+![footer](https://github.com/Bemajerus/CodeInstitute/assets/19080353/e83b8945-baf2-4f63-a2bc-b55109756de0)
+
 
 ## Features by page
 
@@ -126,19 +128,21 @@ I added the Vasco da Gama badge in the middle of the footer, and on the right si
 
 The history page starts with an image of the game jersey focused on the Cross of the Order of Christ, followed by a text recounting the history of Vasco da Gama's founding, and lastly, a photo of São Januário, the stadium built by the team's own supporters.
 
-....history page
+![historypage](https://github.com/Bemajerus/CodeInstitute/assets/19080353/9e202dd3-99cb-43c9-9c39-954a6c726752)
+
 
 ### Fight against racism page
 
 The page about the fight against racism begins with an iconic photo of the team known as the "Camisas Negras" (Black Shirts), a famous Vasco team that battled against racism in football in the early 1900s. After the image, there's a text providing more details about this fight. Finally, the page concludes with the image and transcription of the famous letter known as the "Historical Response", which was sent to the organizers who wanted Vasco to exclude black players from its team.
 
-....racism page
+![racismpage](https://github.com/Bemajerus/CodeInstitute/assets/19080353/66b85e0a-9b7c-4545-8aca-76338f1a3899)
+
 
 ### Legends page
 
 The Legends page features some of Vasco da Gama's greatest idols and plays with the grid layout, varying the position of the photo and the text to enhance the page's visual appeal. The page includes photos of memorable players and a brief description of Vasco da Gama's idols for a more engaging user experience.
 
-...legends page
+![legendspage](https://github.com/Bemajerus/CodeInstitute/assets/19080353/e8af794e-15ed-42ba-a441-7de17668af27)
 
 ### Accessibility
 
@@ -195,13 +199,15 @@ To fork the repository:
 
 [Jigsaw](https://jigsaw.w3.org/css-validator/) was used to validate the css code
 
-....cssvalidator
+![cssvalidator](https://github.com/Bemajerus/CodeInstitute/assets/19080353/40de6fe3-eaee-454d-bcdd-f1fb9d6dc0ea)
+
 
 ### W3C Validator
 
 [W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
 
-....htmlvalidator
+![htmlvalidator](https://github.com/Bemajerus/CodeInstitute/assets/19080353/ea7d6221-62d1-4c3d-939e-5a2958144701)
+
 
 ### Lighthouse
 
@@ -209,15 +215,18 @@ I used Chrome's Lighthouse developer tool to check my sites performance.
 
 ### Index page
 
-...lighthouseindex
+![lighthouseindex](https://github.com/Bemajerus/CodeInstitute/assets/19080353/0f164ad0-7809-4015-9ac9-fc28c638b3e4)
+
 
 ### Fight against racism page
 
-.....lighthouseracism
+![lighthouseracism](https://github.com/Bemajerus/CodeInstitute/assets/19080353/7d56ad83-9573-4c2b-944d-c361ca118442)
+
 
 ### Legends page
 
-.....lighthouselegends
+![lighthouselegends](https://github.com/Bemajerus/CodeInstitute/assets/19080353/9e996330-e33e-4220-bc12-7680fb975a40)
+
 
 ### Full Testing
 
