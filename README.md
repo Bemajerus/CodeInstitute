@@ -234,9 +234,9 @@ Additional testing was taken by friends on a variety of devices and screen sizes
 | --- | --- | --- | --- | --- |
 | `Navbar` |
 |  |  |  |  |  |
-| History Page Link | When clicked the user will be redirected to the home page.| Clicked link | Redirected to the home page. | Pass |
-| Fight Against Racism Link | When clicked the user will be redirected to the fight against racism page. | Clicked link | Redirected to the accomodation page. | Pass |
-| Legends Link | When clicked the user will be redirected to the Legends page. | Clicked link | Redirected to the contact page | Pass |
+| History Page Link | When clicked the user will be redirected to the home page.| Clicked link | Redirected to the history page. | Pass |
+| Fight Against Racism Link | When clicked the user will be redirected to the fight against racism page. | Clicked link | Redirected to the fight racism page. | Pass |
+| Legends Link | When clicked the user will be redirected to the legends page. | Clicked link | Redirected to the legends page | Pass |
 | --- | --- | --- | --- | --- |
 | `Footer` |
 |  |  |  |  |  |
