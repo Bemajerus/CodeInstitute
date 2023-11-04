@@ -131,7 +131,7 @@ The page about the fight against racism begins with an iconic photo of the team 
 
 ### Legends page
 
-The Legends page features some of Vasco da Gama's greatest idols and plays with the grid layout, varying the position of the video player and the text to enhance the page's visual appeal. The page includes videos showcasing memorable plays and a brief description of Vasco da Gama's idols for a more engaging user experience.
+The Legends page features some of Vasco da Gama's greatest idols and plays with the grid layout, varying the position of the photo and the text to enhance the page's visual appeal. The page includes photos of memorable players and a brief description of Vasco da Gama's idols for a more engaging user experience.
 
 ...legends page
 
@@ -145,7 +145,6 @@ It was requested that the shade of red be slightly lighter to improve visibility
 **Visual Studio Code** - The IDE used for editing my site and pushing changes.\
 **HTML5** - The core of the site was built with HTML version 5.\
 **CSS** - CSS was used to style the website and define fonts and layout.\
-**Youtube** - Videos embedded from Youtube.\
 **Icon Finders** - Social Media icons from Icon Finders.\
 **Google Chrome** - The website was built and tested in google Chrome.\
 **Cloud Converter** - Used to convert PNG files to .webP.
@@ -235,17 +234,14 @@ Additional testing was taken by friends on a variety of devices and screen sizes
 | --- | --- | --- | --- | --- |
 | `Navbar` |
 |  |  |  |  |  |
-| History Page Link | When clicked the user will be redirected to the home page.| Clicked link | Redirected to the home page. | Pass |
-| Fight Against Racism Link | When clicked the user will be redirected to the fight against racism page. | Clicked link | Redirected to the accomodation page. | Pass |
-| Legends Link | When clicked the user will be redirected to the Legends page. | Clicked link | Redirected to the contact page | Pass |
+| History Page Link | When clicked the user will be redirected to the home page.| Clicked link | Redirected to the history page. | Pass |
+| Fight Against Racism Link | When clicked the user will be redirected to the fight against racism page. | Clicked link | Redirected to the fight racism page. | Pass |
+| Legends Link | When clicked the user will be redirected to the legends page. | Clicked link | Redirected to the legends page | Pass |
 | --- | --- | --- | --- | --- |
 | `Footer` |
 |  |  |  |  |  |
 | Social Icons | When clicked the user will be redirected to the appropriate social media pages in a new window. | Clicked icon | Redirected to the social media page in a new window. | Pass |
-| --- | --- | --- | --- | --- |
-| `Legends Page` |
-|   |   |   |   |
-| Youtube videos | Videos does not autoplay, only when clicked does it play. | Clicked video  | Video plays | Pass |
+
 
 ### Bugs and Corrections
 
@@ -272,5 +268,3 @@ Texts taken from:
 Images taken from:
  * https://www.lance.com.br/vasco/resposta-historica-do-vasco-completa-99-anos-entenda-por-que-o-documento-e-marco-contra-a-desigualdade.html
  * Google Images
-
-Videos embedded from Youtube.
