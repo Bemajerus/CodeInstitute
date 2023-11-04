@@ -28,6 +28,8 @@ h3 {
 
 .player-position {
     margin-top: 16px;
+    width: 360px; 
+    height: 201px;
 }
 
     /* Legends page content style for desktop */
