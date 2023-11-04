@@ -2,7 +2,8 @@
 
 This is a website developed in HTML and CSS about the history and the fight against racism of the Brazilian football team Vasco da Gama. It was designed to be responsive on all devices.
 
-.....imagem do mockup
+![mockup](https://github.com/Bemajerus/CodeInstitute/assets/19080353/52dfcb87-a827-4c60-a21c-d73b3b698c58)
+
 
 ---
 
@@ -56,7 +57,8 @@ Understanding Vasco da Gama's fight against the racism that affected black and l
 
 ### Colour Scheme
 
-.....foto do esquema de cores
+![colourscheme](https://github.com/Bemajerus/CodeInstitute/assets/19080353/acc726cb-6519-4461-b167-4f18190c06fe)
+
 
 The choice of colors in the team's shirt and badge is reflected in the website design. The black and white colors symbolize the club's openness to people of all races and social backgrounds, without discrimination. The red color represents the symbol that the navigator Vasco da Gama applied to his ships and banners, the Cross of the Order of Christ.
 
@@ -64,11 +66,13 @@ The choice of colors in the team's shirt and badge is reflected in the website d
 
 For the primary font, the Long Shot font was chosen, which is the same font used by the Vasco da Gama institution in its marketing and social media activities.
 
-....foto long shot
+![fontprimary](https://github.com/Bemajerus/CodeInstitute/assets/19080353/7319a85b-fc3e-4c73-8c63-ec462ace3f4f)
+
 
 The Roboto Condensed font was selected as the secondary font because it complements the primary font nicely.
 
-.....foto loong shot
+![fontsecundary](https://github.com/Bemajerus/CodeInstitute/assets/19080353/a2332afa-6a83-4908-8d14-46a174d7c9be)
+
 
 ### Imagery
 
@@ -80,15 +84,15 @@ I used Figma to design my wireframes
 
 ### Home
 
-...foto wireframe home
+![figmahistory](https://github.com/Bemajerus/CodeInstitute/assets/19080353/ae12b0eb-c628-47c6-bb62-a7a3c740b1f0)
 
 ### Fight against racism
 
-...foto wireframe racism
+![figmaracism](https://github.com/Bemajerus/CodeInstitute/assets/19080353/af1438c5-c187-4b48-b927-6a50ff748251)
 
 ### Legends
 
-...foto wireframe legends
+![figmalegends](https://github.com/Bemajerus/CodeInstitute/assets/19080353/a8e0bf42-26be-4f93-87f4-fbc49dc0d280)
 
 
 ## Features
@@ -100,7 +104,8 @@ I used Figma to design my wireframes
 
 I used HTML and CSS for the navbar, below are two views of the desktop view and the responsive mobile view that transforms into a hamburger menu.
 
-...desktop navbar
+![navbardesktop](https://github.com/Bemajerus/CodeInstitute/assets/19080353/556fdf86-7f4f-48d8-b431-efbc8933bdc3)
+
 
 Desktop version navbar with menu
 
