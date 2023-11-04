@@ -2,7 +2,8 @@
 
 This is a website developed in HTML and CSS about the history and the fight against racism of the Brazilian football team Vasco da Gama. It was designed to be responsive on all devices.
 
-.....imagem do mockup
+[mockup](https://github.com/Bemajerus/CodeInstitute/assets/19080353/52dfcb87-a827-4c60-a21c-d73b3b698c58)
+
 
 ---
 
