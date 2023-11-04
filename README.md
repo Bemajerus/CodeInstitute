@@ -262,12 +262,15 @@ Additional testing was taken by friends on a variety of devices and screen sizes
 Bug: Even though the file names were in lowercase in my directory, after pushing, they still had uppercase initials in the repository.
 Correction: I had to rename by adding a letter or number and then deleting it again.
 
-....imgs namecaps
+![namecaps2](https://github.com/Bemajerus/CodeInstitute/assets/19080353/2dc1b80d-2592-43ed-95db-fc624c65af64)
+![namecaps](https://github.com/Bemajerus/CodeInstitute/assets/19080353/9385da92-4042-4200-9cef-32682f507524)
+
 
 Bug: After the deployment, the images were no longer loading.
-Correction: I needed to change the image paths.
+Correction: I needed to change the images path.
 
-----img
+![directory](https://github.com/Bemajerus/CodeInstitute/assets/19080353/7c1e1fbc-4a1d-499b-bd8a-5869486d5395)
+
 
 ## Credits
 
